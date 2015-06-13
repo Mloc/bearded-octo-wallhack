@@ -1,5 +1,5 @@
 # Colonies
 
 ### Sol system
-- [[Colony/Earth]]
-- [[Colony/Mars]]
+- [[Earth:colony/Earth]]
+- [[Mars:colony/Mars]]
